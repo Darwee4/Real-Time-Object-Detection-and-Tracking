@@ -13,7 +13,7 @@ This project implements a real-time object detection and tracking system using Y
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/real-time-object-tracking.git
+git clone https://github.com/Darwee4/real-time-object-tracking.git
 cd real-time-object-tracking
 ```
 
